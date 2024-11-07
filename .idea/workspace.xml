@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a881bfdc-1d52-4959-abed-3fabbdc7c55d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/AccountDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/AttendeeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/DetailSectionDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/EmployeeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/EventDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/InviteDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/ManagerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/McDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/ProviderDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/ProviderEventDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/ProviderServiceDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/SectionDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/SpeakerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/SponsorDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/SponsorEventDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/SponsorShipDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/SubTaskDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/TaskDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/dto/TeamDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/AttendeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/EventServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/InviteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/ManagerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/McServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/ProviderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/ProviderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/SectionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/SpeakerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/SponsorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/SubtaskServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/TaskServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/Impl/TeamServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/payload/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/EventManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/EventManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Attendee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Attendee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Invite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Invite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Mc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Mc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Provider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/ProviderEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/ProviderEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Section.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Speaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Speaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Sponsor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Sponsor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/SponsorEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/SponsorEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/SponsorShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/SponsorShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/SubTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/SubTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/entity/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/AttendeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/EventServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/InviteServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/ManagerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/McServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/ProviderImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/ProviderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/SectionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/SpeakerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/SponsorServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/SubtaskServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/TaskServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hcmute/fit/event_management/service/TeamServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="21" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="21" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2o4QwcvCMqN2Yx9q0qTIET3xdN4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.EventManagementApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/Downloads/Compressed/osahaneat-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EventManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="event-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hcmute.fit.event_management.EventManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a881bfdc-1d52-4959-abed-3fabbdc7c55d" name="Changes" comment="" />
+      <created>1730126609731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730126609731</updated>
+      <workItem from="1730126610734" duration="2026000" />
+      <workItem from="1730128661332" duration="381000" />
+      <workItem from="1730510533778" duration="5564000" />
+      <workItem from="1730644741470" duration="41000" />
+      <workItem from="1730729703189" duration="773000" />
+      <workItem from="1730730487838" duration="1000" />
+      <workItem from="1730970548388" duration="11433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
