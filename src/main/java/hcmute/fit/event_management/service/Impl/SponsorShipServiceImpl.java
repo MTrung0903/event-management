@@ -1,8 +1,8 @@
-package hcmute.fit.event_management.service;
+package hcmute.fit.event_management.service.Impl;
 
-<<<<<<< HEAD
 import hcmute.fit.event_management.entity.SponsorShip;
 import hcmute.fit.event_management.repository.SponsorShipRepository;
+import hcmute.fit.event_management.service.ISponsorShipService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Example;
 import org.springframework.data.domain.Sort;
@@ -54,7 +54,5 @@ public class SponsorShipServiceImpl implements ISponsorShipService {
     public void deleteById(Integer integer) {
         sponsorShipRepository.deleteById(integer);
     }
-=======
-public class SponsorShipServiceImpl {
->>>>>>> origin/master
+
 }
